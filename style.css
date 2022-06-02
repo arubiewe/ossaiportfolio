@@ -1,0 +1,199 @@
+
+#page1 {
+
+    display: flex;
+     justify-content: space-around;
+     width: 99.81%;
+     position: absolute;
+     right: 0.08%;
+     left: 0.01%;
+     top: 0%;
+     border: 1px solid brown;
+     background-color: rgb(255, 255, 255);
+}
+
+.image1{
+    position: absolute;
+    left: 50%;
+    bottom: 30%;
+
+}
+.intro{
+    position: absolute;
+    left: 18%;
+    top: 22%;
+    font-size: 190%;
+     line-height: 60%;
+}
+body {
+    background-color: rgb(245, 241, 236);
+    
+}
+.footer1 {
+    border: 2px solid black;
+    position: absolute;
+    top: 70%;
+    right: 0.01%;
+    background-color: rgb(161, 12, 12);
+    width: 100%;
+    color: white;
+
+
+}
+.comp{
+    line-height: 120%;
+
+}
+
+
+.hob{
+    position: absolute;
+    left: 50%;
+    bottom: 6%;
+}
+button {
+    position: absolute;
+    left: 80%;
+    top: 70%;
+    font-size: 170%;
+    background-color: rgb(250, 246, 246);
+    transition-duration: 0.4s;
+}
+button:hover {
+    background-color: rgb(0, 187, 191);
+    color: white;
+}
+input{
+    position: relative;
+    left: 30%;
+    width:35%;
+    padding:0.3cm;
+    border-radius:30px;
+    border:1px solid gray;
+}
+.mesg {
+    width:32%;
+    padding:0.8cm;
+    border-radius:5px;
+    border:1px solid gray;
+}
+.form {
+    background-color: rgb(161, 12, 12);
+    padding: 4%;
+    border: 1px solid black;
+    width: 93%;
+    position: relative;
+    right: 0.56%;
+}
+.bt1 {
+    position: relative;
+    left: 5%;
+    top: 72px;
+    font-size: 25px;
+}
+label{
+    color: white;
+    position: relative;
+    left: 30%;
+}
+.footer2a{
+    display: flex;
+    justify-content: space-around;
+}
+
+#page2 {
+    display: flex;
+     justify-content: space-around;
+     width: 99.86%;
+     position: relative;
+     right: 1%;
+     left: 0.02%;
+     top: 0%;
+     border: 1px solid brown;
+     background-color: rgb(255, 255, 255);
+}
+#page3 {
+
+    display: flex;
+     justify-content: space-around;
+     position: relative;
+     width: 99.86%;
+     right: 1%;
+     left: 0.02%;
+     top: 0%;
+     border: 1px solid brown;
+     background-color: rgb(255, 255, 255);
+}
+.login1 {
+    display: flex;
+    justify-content: space-around;
+}
+.form1 {
+    background-color: rgb(161, 12, 12);
+    padding: 1%;
+    border: 1px solid black;
+    width: 99%;
+    position: relative;
+    right: 0.56%;
+    font-size: 70%;
+}
+input{
+    position: relative;
+    left: 30%;
+    width:35.5%;
+    padding:0.25cm;
+    border-radius:30px;
+    border:1px solid gray;
+}
+.gender1{
+    position: relative;
+    left: 30%;
+}
+.bt2 {
+    position: relative;
+    left: 530px;
+    bottom: 10px;
+    font-size: 20px;
+}
+#page4 {
+
+    display: flex;
+     justify-content: space-around;
+     position: relative;
+     width: 99.8%;
+     right: 1%;
+     left: 0.02%;
+     top: 0%;
+     border: 1px solid brown;
+     background-color: rgb(255, 255, 255);
+}
+.form2 {
+    background-color: rgb(161, 12, 12);
+    padding: 1%;
+    border: 1px solid black;
+    width: 99%;
+    position: relative;
+    right: 0.56%;
+}
+.bt3 {
+    position: relative;
+    left: 570px;
+    bottom: 10px;
+    font-size: 30px;
+}
+input1{
+    position: relative;
+    left: 30%;
+    width:25%;
+    padding:0.1cm;
+    border-radius:30px;
+    border:1px solid gray;
+}
+input2{
+    position: relative;
+    left: 30%;
+    width:30%;
+    padding:0.2cm;
+    border-radius:30px;
+    border:1px solid gray;
+}

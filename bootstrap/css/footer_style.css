@@ -1,0 +1,17 @@
+.footer1 {
+    border: 2px solid black;
+   
+    top: 70%;
+    right: 0.01%;
+    background-color: rgb(161, 12, 12);
+    
+    color: white;
+    background-color: red;
+
+
+}
+
+.footer2a{
+    display: flex;
+    justify-content: space-around;
+}
